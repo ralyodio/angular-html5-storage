@@ -39,7 +39,7 @@ using ngHTML5Storage directly (without a service wrapper)
             });
         });
 
-## Methods
+## Methods of ngHTML5Storage
 
 * `.local(key, value)` - set a value by key in localStorage
 * `.session(key, value)` - set a value by key in sessionStorage

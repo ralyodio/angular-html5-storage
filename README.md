@@ -1,6 +1,6 @@
-# angular-html5-storage (ngHTML5Storage)
+# angular-html5-storage
 
-HTML5 web storage for Angular.js
+HTML5 web storage for Angular.js (ngHTML5Storage)
 
 ## Install
 
@@ -41,8 +41,8 @@ using ngHTML5Storage directly (without a service wrapper)
 
 ## Methods
 
-* `ngHTML5Storage.local(key, value)`
-* `ngHTML5Storage.session(key, value)`
+* `ngHTML5Storage.local(key, value)` - uses localStorage
+* `ngHTML5Storage.session(key, value)` - uses sessionStorage
 
 
 ## Run tests

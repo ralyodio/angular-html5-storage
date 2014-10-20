@@ -1,6 +1,6 @@
 {
   "name": "angular-html5-storage",
-  "description": "HTML5 web storage for Angular.js",
+  "description": "HTML5 web storage for Angular.js (ngHTML5Storage)",
   "version": "0.0.0",
   "dependencies": {},
   "keywords": [

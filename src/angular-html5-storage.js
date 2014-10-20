@@ -32,11 +32,7 @@ angular.module('angular-html5-storage')
         var def = $q.defer();
         var result = store(key, value, 'local');
 
-        if ( result ) {
-          def.resolve(result);
-        } else {
-          def.reject();
-        }
+        def.resolve(result);
 
         return def.promise;
       },
@@ -44,7 +40,7 @@ angular.module('angular-html5-storage')
         var def = $q.defer();
         var result = store(key, value, 'session');
 
-        def.resolve();
+        def.resolve(result);
 
         return def.promise;
       },

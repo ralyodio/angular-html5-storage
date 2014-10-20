@@ -41,8 +41,12 @@ using ngHTML5Storage directly (without a service wrapper)
 
 ## Methods
 
-* `ngHTML5Storage.local(key, value)` - uses localStorage
-* `ngHTML5Storage.session(key, value)` - uses sessionStorage
+* `.local(key, value)` - set a value by key in localStorage
+* `.session(key, value)` - set a value by key in sessionStorage
+* `.local(key)` - get a value by key in localStorage
+* `.session(key)` - get a value by key in sessionStoragedd 
+* `.remove.local(key)` - remove by key from localStorage
+* `.remove.session(key)` - remove by key from sessionStorage
 
 
 ## Run tests

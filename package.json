@@ -9,7 +9,8 @@
     "html5",
     "localStorage",
     "sessionStorage",
-    "webstorage"
+    "webstorage",
+    "ngHTML5Storage"
   ],
   "homepage": "https://github.com/chovy/angular-html5-storage",
   "author": "Anthony Ettinger (chovy), Simon Ho (superkhau)",

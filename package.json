@@ -3,11 +3,22 @@
   "description": "HTML5 web storage for Angular.js",
   "version": "0.0.0",
   "dependencies": {},
-  "keywords": ["angularjs", "angular", "html5", "localStorage", "sessionStorage", "webstorage"],
+  "keywords": [
+    "angularjs",
+    "angular",
+    "html5",
+    "localStorage",
+    "sessionStorage",
+    "webstorage"
+  ],
   "homepage": "https://github.com/chovy/angular-html5-storage",
   "author": "Anthony Ettinger (chovy), Simon Ho (superkhau)",
   "repository": {
     "type": "git",
     "url": "git@github.com:chovy/angular-html5-storage.git"
+  },
+  "devDependencies": {
+    "del": "^0.1.3",
+    "gulp": "^3.8.8"
   }
 }

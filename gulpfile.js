@@ -20,7 +20,7 @@ gulp.task('clean:dist', function(cb){
 gulp.task('copy:dist', ['clean:dist'], function(){
   gulp.src([
     //'package.json',
-    'bower.json'
+    //'bower.json'
   ], { base: './' })
     .pipe(gulp.dest('dist'));
 });

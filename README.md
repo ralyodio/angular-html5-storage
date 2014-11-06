@@ -1,4 +1,5 @@
 # angular-html5-storage
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/chovy/angular-html5-storage?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 HTML5 web storage for Angular.js (ngHTML5Storage)
 

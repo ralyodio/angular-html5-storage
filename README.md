@@ -58,3 +58,7 @@ using ngHTML5Storage directly (without a service wrapper)
 
 
 MIT License
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chovy/angular-html5-storage/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
